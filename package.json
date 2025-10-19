@@ -1,0 +1,37 @@
+{
+  "name": "backend-with-node-js",
+  "version": "1.0.0",
+  "description": "Learning Backend From Chai & Code",
+  "keywords": [
+    "Node",
+    "js",
+    "Backend",
+    "Exress",
+    "Js",
+    "MongoDB"
+  ],
+  "homepage": "https://github.com/mustansar3755/Backend-With-Node-JS#readme",
+  "bugs": {
+    "url": "https://github.com/mustansar3755/Backend-With-Node-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustansar3755/Backend-With-Node-JS.git"
+  },
+  "license": "ISC",
+  "author": "Mustansar Hussain",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
